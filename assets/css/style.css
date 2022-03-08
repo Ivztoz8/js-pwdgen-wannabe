@@ -1,0 +1,12 @@
+/* Tag Mods */
+body{
+    background-color: lightseagreen;
+}
+/* Utility */
+.colorwhite{
+    color: white;
+}
+
+.borderrad1{
+    border-radius: 20px;
+}
